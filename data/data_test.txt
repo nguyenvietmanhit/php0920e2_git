@@ -1,0 +1,7 @@
+Đây là file data_test.txt
+
+php0920e2_git/
+             /nvmanh.txt
+             /test_git.txt
+             /data/
+                  /data_test.txt
